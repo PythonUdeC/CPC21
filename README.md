@@ -11,15 +11,28 @@ Bienvenidos a la iteración 2021 del curso **Introducción a la Programación Ci
 
 El curso entrega las bases para poder utilizar el lenguaje de programación Python en al ámbito científico. Con los aprendizajes alcanzados las personas participantes podrán analizar datos experimentales y computacionales haciendo uso de las herramientas escritas para Python y de esa forma aportar a una interpretación más completa de sus resultados de investigación. 
 
+-------------
+## Horario
+
 El horario de actividades es el siguiente:
 
- | Lunes | Martes | Miércoles | Jueves | Viernes |
--------------------------------------------------
-09:00| Bienvenida | 09:00 | 09:00 | 09:00 | 09:00 |
-15:00 | hola | hola | hola | hola | hola |
------------------------------------------------------
+* Lunes: 10:00 - 12:00: Bienvenida + Intro
+* Lunes: 15:00 - 17:00: Instalación y primeros pasos (GR)
 
 
+* Martes: 09:00 - 12:00: Introducción a la Programacion en Python (GR) 
+* Martes: 15:00 - 17:99: Práctica (Guía 1) (GR)
+
+* Miércoles: 09:00 - 12:00: Funciones, Módulos y Clases (SV)
+* Miércoles: 15:00 - 17:00: Numpy, práctica (GR, Luis Macaya) 
+
+* Jueves: 09:00 - 12:00: Matplotlib (EV)
+* Jueves: 15:00 - 17:00 Scipy + práctica (SV, Gerald Neumann) 
+
+* Viernes: 09:00 - 12:00: Pandas (EV)
+* Viernes 15:00 - 17:00: Sympy + práctica (GR)
+
+----------------------
 
 Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonUdeC/CPC21/main)
 
