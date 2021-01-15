@@ -11,7 +11,16 @@ Bienvenidos a la iteración 2021 del curso **Introducción a la Programación Ci
 
 El curso entrega las bases para poder utilizar el lenguaje de programación Python en al ámbito científico. Con los aprendizajes alcanzados las personas participantes podrán analizar datos experimentales y computacionales haciendo uso de las herramientas escritas para Python y de esa forma aportar a una interpretación más completa de sus resultados de investigación. 
 
-Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonUdeC/CPC21/main)
+El horario de actividades es el siguiente:
 
+ | Lunes | Martes | Miércoles | Jueves | Viernes |
+-------------------------------------------------
+09:00| Bienvenida | 09:00 | 09:00 | 09:00 | 09:00 |
+15:00 | hola | hola | hola | hola | hola |
+-----------------------------------------------------
+
+
+
+Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonUdeC/CPC21/main)
 
 Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) donde podrán compartir sus dudas, comentarios y logros relacionados a la programación en Python. Nos Leemos! 
