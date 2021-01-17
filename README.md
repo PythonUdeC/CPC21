@@ -23,7 +23,7 @@ El horario de actividades es el siguiente:
 * Martes: 15:00 - 17:99: Práctica (Guía 1) (GR)
 
 * Miércoles: 09:00 - 12:00: Funciones, Módulos y Clases (SV)
-* Miércoles: 15:00 - 17:00: Numpy, práctica (GR, Luis Macaya) 
+* Miércoles: 15:00 - 17:00: Numpy + práctica (EV, Luis Macaya) 
 
 * Jueves: 09:00 - 12:00: Matplotlib (NI)
 * Jueves: 15:00 - 17:00 Scipy + práctica (SV, Gerald Neumann) 
