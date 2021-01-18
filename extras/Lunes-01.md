@@ -1,6 +1,6 @@
-* [Archivo pdf de la presentación](./extras/Python-Intro-2021.pdf).
+* [Archivo pdf de la presentación](./Python-Intro-2021.pdf).
 * Resultados de encuestas realizada en la Bienvenida + Introducción:
-![Cuidad](./1-ciudad-de-residencia.jpg)
+![Cuidad](./2-que-sistema-operativo-usara-en-este-curso.jpg)
 ![SO](./1-ciudad-de-residencia.jpg)
 ![Experiencia](./1-experiencia-programando.jpg)
 ![LEnguaje](./2-lenguaje-de-programacion-que-ya-conoce.jpg)
