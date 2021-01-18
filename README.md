@@ -16,7 +16,7 @@ El curso entrega las bases para poder utilizar el lenguaje de programación Pyth
 
 El horario de actividades es el siguiente:
 
-* Lunes: 10:00 - 12:00: Bienvenida + Intro
+* Lunes: 10:00 - 12:00: [Bienvenida + Introducción](./extras/Lunes-01).
 * Lunes: 15:00 - 17:00: Instalación y primeros pasos (GR)
 
 * Martes: 09:00 - 12:00: Introducción a la Programacion en Python (GR) 
@@ -35,4 +35,9 @@ El horario de actividades es el siguiente:
 
 Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonUdeC/CPC21/main)
 
+-------------
 Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) donde podrán compartir sus dudas, comentarios y logros relacionados a la programación en Python. Nos Leemos! 
+
+--------------
+
+Puede encontrar los resultados de la encuesta realizada en la sesión introductoria [aquí](./extras/Encuesta.md).
