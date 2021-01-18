@@ -16,7 +16,7 @@ El curso entrega las bases para poder utilizar el lenguaje de programación Pyth
 
 El horario de actividades es el siguiente:
 
-* Lunes: 10:00 - 12:00: [Bienvenida + Introducción](./extras/Lunes-01).
+* Lunes: 10:00 - 12:00: [Bienvenida + Introducción](./extras/Lunes-01.md).
 * Lunes: 15:00 - 17:00: Instalación y primeros pasos (GR)
 
 * Martes: 09:00 - 12:00: Introducción a la Programacion en Python (GR) 
