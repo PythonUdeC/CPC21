@@ -43,4 +43,6 @@ Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) don
 Puede encontrar los resultados de la encuesta realizada en la sesión introductoria [aquí](./extras/Encuesta.md).
 
 Las grabaciones de las sesiones las pueden encontrar bajo los siguientes link:
+
+
 [Lunes 10-12hrs](https://us02web.zoom.us/rec/share/51aF-4fzjKq4NOlDIunKr_JbO6beql-D4jQ-lvZHsqaocJUI9hFOBpJ3cX6lZSCz.fET_oaBD25eITqmX)
