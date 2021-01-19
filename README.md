@@ -46,3 +46,6 @@ Las grabaciones de las sesiones las pueden encontrar bajo los siguientes link:
 
 
 [Lunes 10-12hrs](https://us02web.zoom.us/rec/share/51aF-4fzjKq4NOlDIunKr_JbO6beql-D4jQ-lvZHsqaocJUI9hFOBpJ3cX6lZSCz.fET_oaBD25eITqmX)
+
+[Martes 9-12hrs](https://us02web.zoom.us/rec/share/qbWzbRjM3_tP2Q5Nle7w2F3Q2usodTInhrti5Fr3bhpy0ua_s6Mw8r3Dx5afUBwV.uCam3GMMUCjqwIju)
+
