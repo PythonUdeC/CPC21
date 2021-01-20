@@ -17,9 +17,9 @@ El curso entrega las bases para poder utilizar el lenguaje de programación Pyth
 El horario de actividades es el siguiente:
 
 * Lunes: 10:00 - 12:00: [Bienvenida + Introducción](./extras/Lunes-01.md).
-* Lunes: 15:00 - 17:00: Instalación y primeros pasos (GR)
+* Lunes: 15:00 - 17:00: [Instalación y primeros pasos (GR)](https://youtu.be/zBlvGcqlCBQ)
 
-* Martes: 09:00 - 12:00: Introducción a la Programacion en Python (GR) 
+* Martes: 09:00 - 12:00: [Introducción a la Programacion en Python (GR)](https://us02web.zoom.us/rec/share/qbWzbRjM3_tP2Q5Nle7w2F3Q2usodTInhrti5Fr3bhpy0ua_s6Mw8r3Dx5afUBwV.uCam3GMMUCjqwIju)
 * Martes: 15:00 - 17:99: Práctica (Guía 1) (GR)
 
 * Miércoles: 09:00 - 12:00: Funciones, Módulos y Clases (SV)
@@ -43,9 +43,3 @@ Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) don
 Puede encontrar los resultados de la encuesta realizada en la sesión introductoria [aquí](./extras/Encuesta.md).
 
 Las grabaciones de las sesiones las pueden encontrar bajo los siguientes link:
-
-
-[Lunes 10-12hrs](https://us02web.zoom.us/rec/share/51aF-4fzjKq4NOlDIunKr_JbO6beql-D4jQ-lvZHsqaocJUI9hFOBpJ3cX6lZSCz.fET_oaBD25eITqmX)
-
-[Martes 9-12hrs](https://us02web.zoom.us/rec/share/qbWzbRjM3_tP2Q5Nle7w2F3Q2usodTInhrti5Fr3bhpy0ua_s6Mw8r3Dx5afUBwV.uCam3GMMUCjqwIju)
-
