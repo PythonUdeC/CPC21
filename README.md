@@ -37,13 +37,3 @@ Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://myb
 
 -------------
 Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) donde podrán compartir sus dudas, comentarios y logros relacionados a la programación en Python. Nos Leemos! 
-
---------------
-
-Puede encontrar los resultados de la encuesta realizada en la sesión introductoria [aquí](./extras/Encuesta.md).
-
-Las grabaciones de las sesiones las pueden encontrar bajo los siguientes link:
-
---------------
-
-[Padlet](https://es.padlet.com/nibarra7/124y8amdfwxljcda) de "Mi Primer Gráfico con Matplotlib".
