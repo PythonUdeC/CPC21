@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n}{x}\PYG{o}{=}\PYG{p}{[}\PYG{l+m+mi}{5}\PYG{p}{,}\PYG{l+m+mi}{20}\PYG{p}{,}\PYG{l+m+mi}{40}\PYG{p}{,}\PYG{l+m+mi}{60}\PYG{p}{,}\PYG{l+m+mi}{80}\PYG{p}{]}
+\PYG{n}{y}\PYG{o}{=}\PYG{p}{[}\PYG{l+m+mf}{2.6}\PYG{p}{,}\PYG{l+m+mf}{5.5}\PYG{p}{,}\PYG{l+m+mi}{7}\PYG{p}{,}\PYG{l+m+mf}{12.5}\PYG{p}{,}\PYG{l+m+mf}{11.9}\PYG{p}{]}
+
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{plot}\PYG{p}{(}\PYG{n}{x}\PYG{p}{,}\PYG{n}{y}\PYG{p}{,} \PYG{n}{marker}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}o\PYGZdq{}}\PYG{p}{,} \PYG{n}{markersize}\PYG{o}{=}\PYG{l+m+mi}{5}\PYG{p}{,} \PYG{n}{color}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}green\PYGZdq{}}\PYG{p}{,} \PYG{n}{label}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}Datos experimentales\PYGZdq{}}\PYG{p}{)}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{title}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}Voltaje versus Frecuencia\PYGZdq{}}\PYG{p}{)}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{xlabel}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}Frecuencia \PYGZdl{}f\PYGZdl{} [Hertz]\PYGZdq{}}\PYG{p}{)}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{ylabel}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}Voltaje \PYGZdl{}V\PYGZdl{} [Volt]\PYGZdq{}}\PYG{p}{)}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{legend}\PYG{p}{(}\PYG{n}{loc}\PYG{o}{=}\PYG{l+m+mi}{2}\PYG{p}{)} \PYG{c+c1}{\PYGZsh{} esquina superior izquierda}
+\PYG{n}{plt}\PYG{o}{.}\PYG{n}{savefig}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}g1.pdf\PYGZdq{}}\PYG{p}{)}
+\end{Verbatim}

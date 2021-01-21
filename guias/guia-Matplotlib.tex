@@ -17,10 +17,10 @@
 %\firstpagefooter{}{Pagina \thepage\ de \pages}{}
 \runningheadrule
 %\runningfootrule
-\lhead{\bf\normalsize Taller Python 2018}
+\lhead{\bf\normalsize Taller Python 2020}
 \rhead{\bf\normalsize Gu\'ia 05}
 \cfoot{ }
-\lfoot{\tiny GR}
+\lfoot{\tiny GR/NIV}
 \begin{flushleft}
 \vspace{0.2in}
 %\hbox to \textwidth{Nombre: \enspace \hrulefill}
@@ -31,15 +31,12 @@
 
 \begin{questions}
 
-\item En esta pr'actica usted ejercitar'a algunas caracter'isticas muy b'asicas del  poderoso m'odulo \texttt{matplotlib}, y en particular usando las funciones definidas en \texttt{matplotlib.pyplot}. Para ello, cargue el m'odulo usando:
+\item En este Taller usted ejercitar'a algunas caracter'isticas muy b'asicas del  poderoso m'odulo \texttt{matplotlib}, y en particular usando las funciones definidas en \texttt{matplotlib.pyplot}. Para ello, en una primera celda de un Jupyter-Notebook de Python cargue el m'odulo usando:
 \begin{minted}{python}
 import  matplotlib.pyplot as plt
 \end{minted}
-\item Escriba un script Python en el archivo \texttt{g1.py} con el siguiente contenido:
+\item En una segunda celda copie el siguiente contenido:
 \begin{minted}{python}
-# -*- coding: UTF-8 -*-
-import matplotlib.pyplot as plt
-
 x=[5,20,40,60,80]
 y=[2.6,5.5,7,12.5,11.9]
 
@@ -50,10 +47,11 @@ plt.ylabel("Voltaje $V$ [Volt]")
 plt.legend(loc=2) # esquina superior izquierda
 plt.savefig("g1.pdf")
 \end{minted}
-Note que la primera l'inea es necesaria si se quieren incluir caracteres latinos (tildes, letra \~n, etc). Este programa grafica los datos en las listas \texttt{x} e \texttt{y} usando c'irculos verdes, que guarda en el archivo \texttt{g1.pdf}.
-\item Copie el archivo \texttt{g1.py} a \texttt{g2.py}, que en adelante usar'a para realizar pruebas. 
+%Note que la primera l'inea es necesaria si se quieren incluir caracteres latinos (tildes, letra \~n, etc).
+Este programa grafica los datos en las listas \texttt{x} e \texttt{y} usando c'irculos verdes, que guarda en el archivo \texttt{g1.pdf}.
+\item Copie el c'odigo anterior en una tercera celda, que en adelante usar'a para realizar pruebas. 
 \item La opci'on \texttt{marker="\,o"} indica que los puntos son representados por c'irculos. Note que, por defecto, estos puntos son unidos por rectas. Otros s'imbolos (``markers'') disponibles son listados en la tabla \ref{t}. Por ejemplo, la opci'on \texttt{marker="s"} indica al comando \texttt{plot} que grafique cuadrados. 
-Adem'as, la opci'on \texttt{color} puede adoptar los valores \texttt{blue} (b), \texttt{green} (g), \texttt{red} (r), \texttt{cyan} (c), \texttt{magenta} (m), \texttt{yellow} (y), \texttt{black} (k) y \texttt{white} (w). Puede encontrar m'as colores listados \href{http://matplotlib.org/examples/color/named_colors.html}{aqu\'i}. Cambie los colores y s'imbolos del grafico en \texttt{g2.py} para familiarizarse con estas opciones.
+Adem'as, la opci'on \texttt{color} puede adoptar los valores \texttt{blue} (b), \texttt{green} (g), \texttt{red} (r), \texttt{cyan} (c), \texttt{magenta} (m), \texttt{yellow} (y), \texttt{black} (k) y \texttt{white} (w). Puede encontrar m'as colores listados \href{http://matplotlib.org/examples/color/named_colors.html}{aqu\'i}. Cambie los colores y s'imbolos del gr'afico en la tercera celda para familiarizarse con estas opciones.
 
 \item Cambie el comando \texttt{plot} anterior por 
 \begin{minted}{python}
@@ -71,17 +69,17 @@ Aqu'i la \texttt{g} en \texttt{"vg"} abrevia ``green'' (verde).
 xlim(0,90)
 ylim(0,15)
 \end{minted}
-\item Prepare un programa \texttt{g3.py} que, usando tambi'en el m'odulo \texttt{numpy}, grafique la (curva continua correspondiente a la) funci'on
+\item Prepare una cuarta celda que, usando tambi'en el m'odulo \texttt{numpy}, grafique la (curva continua correspondiente a la) funci'on
 \begin{equation}
 y(x)=\frac{\sin(x)}{x}
 \end{equation}
 en el intervalo $x\in[-30,30]$, y que guarde el resultado en el archivo \texttt{g3.pdf}.
 
-\item Pruebe cambiando el comando \texttt{plot} de su archivo script por el comando \texttt{fill}, con las mismas opciones (por ejemplo, sustituyendo \texttt{plot(x,y)} por \texttt{fill(x,y)}). ?`Qu'e efecto tiene este cambio?
+\item Pruebe cambiando el comando \texttt{plot} en la celda anterior por el comando \texttt{fill}, con las mismas opciones (por ejemplo, sustituyendo \texttt{plot(x,y)} por \texttt{fill(x,y)}). ?`Qu'e efecto tiene este cambio?
 
-\item Mejore su programa \texttt{g3.py} para que el gr'afico incorpore todos los elementos necesarios para obtener un resultado aceptable (T'itulo que indique la funci'on graficada, ejes con nombres adecuados, grilla (opcional), etc.).
+\item Mejore su programa en la cuarta celda para que el gr'afico incorpore todos los elementos necesarios para obtener un resultado aceptable (T'itulo que indique la funci'on graficada, ejes con nombres adecuados, grilla (opcional), etc.).
 
-\item Confeccione un programa \texttt{g4.py} que cargue y grafique (lo mejor que pueda) los datos en el archivo \texttt{datos.txt} usado en la gu'ia 04.% Env'ie los archivos \texttt{g4.py} y \texttt{g4.pdf} al email del profesor G. Rubilar.
+\item Confeccione una quinta celda que cargue y grafique (lo mejor que pueda) los datos en el archivo \texttt{datos.txt} usado en la gu'ia 04.% Env'ie los archivos \texttt{g4.py} y \texttt{g4.pdf} al email del profesor G. Rubilar.
 \begin{table}
 \begin{center}
 \begin{tabular}{cc}
@@ -112,10 +110,9 @@ en el intervalo $x\in[-30,30]$, y que guarde el resultado en el archivo \texttt{
 \end{center}
 \end{table}
 
-\item Utilizando un loop, guarde 40 copias de una de las gr'aficas que ha hecho en los ejercicios 
-anteriores.
+\item Utilizando un loop, guarde 40 copias de una de las gr'aficas que ha hecho en los ejercicios anteriores.
 
-\item \textbf{Bonus Track (opcional)}: Es posible modificar el estilo de la figura completa agregando el comando \texttt{style.use("\,\!estilo")} al comienzo de los comandos que definen el gr'afico. Aqu'i \texttt{"\,\!estilo"} es el nombre de uno de los estilos disponibles. Pruebe, por ejemplo, usar el estilo "\,\!ggplot", agregando la l'inea \texttt{style.use("\,\!ggplot")} a uno de sus gr'aficos. Una lista completa de los estilos predefinidos en su instalalci'on de \texttt{Matplotlib} puede obtenerse con el comando \texttt{print(style.available)}
+\item \textbf{Bonus Track (opcional)}: Es posible modificar el estilo de la figura completa agregando el comando \texttt{style.use("\,\!estilo")} al comienzo de los comandos que definen el gr'afico. Aqu'i \texttt{"\,\!estilo"} es el nombre de uno de los estilos disponibles. Pruebe, por ejemplo, usar el estilo ``\,\!ggplot", agregando la l'inea \texttt{style.use("\,\!ggplot")} a uno de sus gr'aficos. Una lista completa de los estilos predefinidos en su instalalci'on de \texttt{Matplotlib} puede obtenerse con el comando \texttt{print(style.available)}
 
 \item \textbf{Bonus Track (opcional)}: Adem'as de \texttt{style.use}, las 'ultimas versiones de \texttt{Matplotlib} incluyen el comando \texttt{xkcd}, que cambia el estilo de su gr'afico al estilo del famoso webcomic \href{http://xkcd.com/}{xkcd}. Este estilo es bastante 'utiles cuando usted quiere que su gr'afico luzca como ``hecho a mano". Vea c'omo cambia uno de sus gr'aficos agregando \texttt{xkcd()} a su programa (antes del comando \texttt{plot}).
 \end{questions}
