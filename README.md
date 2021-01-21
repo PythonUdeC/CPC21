@@ -25,7 +25,7 @@ El horario de actividades es el siguiente:
 * Miércoles: 09:00 - 12:00: [Funciones, Módulos y Clases (SV)](https://us02web.zoom.us/rec/share/dA8ElX1wHNmkfjgosBaU9Qy61tfr0Bv62phNG_E1o5QcEwi-25A9YS_lQFz6ACg.-3ekQP0gMRDxsDQq)
 * Miércoles: 15:00 - 17:00: [Numpy + práctica (EV, Luis Macaya)](https://us02web.zoom.us/rec/share/jr3qfAeUWEA5YNS8lw5qnKakiUvRNzQtH4E44SLAOYCziCWoJqMELeY3BcoqNfsA.o-YtdXn0FJi2s8dO)
 
-* Jueves: 09:00 - 12:00: Matplotlib (NI)
+* Jueves: 09:00 - 12:00: [Matplotlib (NI)](./extras/Jueves-01.md)
 * Jueves: 15:00 - 17:00 Scipy + práctica (SV, Gerald Neumann) 
 
 * Viernes: 09:00 - 12:00: Pandas (EV)
