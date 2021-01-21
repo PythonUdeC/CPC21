@@ -20,10 +20,10 @@ El horario de actividades es el siguiente:
 * Lunes: 15:00 - 17:00: [Instalación y primeros pasos (GR)](https://youtu.be/zBlvGcqlCBQ)
 
 * Martes: 09:00 - 12:00: [Introducción a la Programacion en Python (GR)](https://us02web.zoom.us/rec/share/qbWzbRjM3_tP2Q5Nle7w2F3Q2usodTInhrti5Fr3bhpy0ua_s6Mw8r3Dx5afUBwV.uCam3GMMUCjqwIju)
-* Martes: 15:00 - 17:99: Práctica (Guía 1) (GR)
+* Martes: 15:00 - 17:99: [Práctica (Guía 1) (GR)](https://us02web.zoom.us/rec/share/NVWS63uXxA5-iR64AkNnbxeD8UE6JRdkqYDp-n2c4B_IGCGZX4w-8_Dtn7e8Cndl.ruKmQoHrpfk-uYfZ)
 
-* Miércoles: 09:00 - 12:00: Funciones, Módulos y Clases (SV)
-* Miércoles: 15:00 - 17:00: Numpy + práctica (EV, Luis Macaya) 
+* Miércoles: 09:00 - 12:00: [Funciones, Módulos y Clases (SV)](https://us02web.zoom.us/rec/share/dA8ElX1wHNmkfjgosBaU9Qy61tfr0Bv62phNG_E1o5QcEwi-25A9YS_lQFz6ACg.-3ekQP0gMRDxsDQq)
+* Miércoles: 15:00 - 17:00: [Numpy + práctica (EV, Luis Macaya)](https://us02web.zoom.us/rec/share/jr3qfAeUWEA5YNS8lw5qnKakiUvRNzQtH4E44SLAOYCziCWoJqMELeY3BcoqNfsA.o-YtdXn0FJi2s8dO)
 
 * Jueves: 09:00 - 12:00: Matplotlib (NI)
 * Jueves: 15:00 - 17:00 Scipy + práctica (SV, Gerald Neumann) 
