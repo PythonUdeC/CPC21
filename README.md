@@ -26,10 +26,11 @@ El horario de actividades es el siguiente:
 * Miércoles: 15:00 - 17:00: [Numpy + práctica (EV, Luis Macaya)](https://us02web.zoom.us/rec/share/jr3qfAeUWEA5YNS8lw5qnKakiUvRNzQtH4E44SLAOYCziCWoJqMELeY3BcoqNfsA.o-YtdXn0FJi2s8dO)
 
 * Jueves: 09:00 - 12:00: [Matplotlib (NI)](./extras/Jueves-01.md)
-* Jueves: 15:00 - 17:00 Scipy + práctica (SV, Gerald Neumann) 
+* Jueves: 15:00 - 17:00 [Scipy + práctica (SV, Gerald Neumann)](https://us02web.zoom.us/rec/share/curSaEQNq6xdOnB_TL3sqXNm4eTLwsBlBA9J4bCXLeWEYwsCKcrE4EvVuzexmgfT.J8tl8ZP23leFyhch
+)
 
-* Viernes: 09:00 - 12:00: Pandas (EV)
-* Viernes 15:00 - 17:00: Sympy + práctica (GR, NI)
+* Viernes: 09:00 - 12:00: [Pandas (EV)](https://us02web.zoom.us/rec/share/WDI3IuF8zEp3hsAwCJf-x-sEJGmhqg42ujCp8kq7SH07xEUECRwaQ1-ezG3at6k3.PLuAj-swFe6siDFx)
+* Viernes 15:00 - 17:00: [Sympy + práctica (GR, NI)](https://us02web.zoom.us/rec/share/63hN9rlIhAan0ka_I1_zS8psHxziZhMzdkCGdSTTW7ioV_Jy7ViquEedyagSGlIY.5ejx0uUr80iZuEJM)
 
 ----------------------
 
@@ -37,3 +38,5 @@ Note que puede ejecutar remotamente los notebooks yendo a [![Binder](https://myb
 
 -------------
 Creamos un [grupo de Telegram](https://t.me/joinchat/G8R4hhGanwPBLDrfd7rTtg) donde podrán compartir sus dudas, comentarios y logros relacionados a la programación en Python. Nos Leemos! 
+
+A los participantes los invitamos a responder la siguiente [encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASj1QTCL1jKhJrFcHAQXKxO1UNFlOMFk4SFZDSUdOUVo5UkFFT0ZXTUZUNyQlQCN0PWcu) (abierta hasta 23/01/2021 18hrs) 
